@@ -8,18 +8,6 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2024/07/Build-Deploy-a-Medical-Health-Management-Blockchain-Dapp-Solidity-Hardhat-Nextjs-Context-AP-and-web3-providers.jpg)
 
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-web3-tools:-next.js-solana-binance-solidity-and-ico-marketplace)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/3_QFVEpefZU?si=IT3S6qZzyRKmvFCv)
-
-```
-  WATCH: Setup & Demo Of Project
-```
-
 #### Install Vs Code Editor
 
 ```https://code.visualstudio.com/download
@@ -47,12 +35,6 @@ All you need to follow the complete project and follow the instructions which ar
 
 If you download the final source code then you can follow the following instructions to run the Dapp successfully
 
-#### Setup Video
-
-```
-  WATCH: Setup & Demo Of Project
-  URL: https://youtu.be/3_QFVEpefZU?si=IT3S6qZzyRKmvFCv
-```
 
 #### Final Source Code
 
